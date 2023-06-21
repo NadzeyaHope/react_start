@@ -1,0 +1,26 @@
+.Profile {
+    display: block;
+    width: 550px;
+  }
+  .Profile_main {
+    justify-content: space-between;
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 40px;
+  }
+  .Profile_main > .Profile_photo > img {
+    width: 200px;
+    border: 2px rgb(3, 2, 2) solid;
+    opacity: 0.8;
+    padding: 10px;
+  
+  }
+  .Profile_main > .Profile_status > .Profile_status_main {
+    font-size: 25px;
+    color: black;
+    padding-top: 30px;
+  }
+  .Profile_main > .Profile_status > .Profile_status_other{
+    color: black;
+    padding-top: 10px;
+  }

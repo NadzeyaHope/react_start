@@ -1,0 +1,15 @@
+.Left_bar {
+    display: block;
+    border: 2px rgb(20, 12, 12) solid;
+    margin: 20px 30px 0 20px;
+    height: 1000px;
+    width: 30%;
+  }
+  .Left_bar > .nav div{
+    font-size: 25px;
+    padding: 30px 0 30px 60px;
+    width: 50px;
+  }
+  .Left_bar > .nav div:hover {
+    color: black;
+  }
